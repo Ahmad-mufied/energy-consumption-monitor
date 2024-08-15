@@ -82,23 +82,23 @@ The Grafana dashboard provides a comprehensive view of energy consumption data, 
 Here are some images from the project:
 
 1. **Hardware Setup**
-   ![Hardware Setup](images/Energy_Consumption_Monitor_Device.jpg)
+   ![Hardware Setup](https://github.com/Ahmad-mufied/energy-consumption-monitor/blob/main/images/Energy_Consumption_Monitor_Device.jpg)
 
 2. **Data Flow Diagram**
-   ![Data Flow Diagram](images/blok_diagram.jpg)
+   ![Data Flow Diagram](https://github.com/Ahmad-mufied/energy-consumption-monitor/blob/main/images/blok_diagram.jpg)
 
 3. **Sketch Diagram**
-   ![Sketch Diagram](images/Rangkaian_alat.png)
+   ![Sketch Diagram](https://github.com/Ahmad-mufied/energy-consumption-monitor/blob/main/images/Rangkaian_alat.png)
 
 4. **Grafana Dashboard**
-   ![Grafana Dashboard](images/Grafana-Dashboard.png)
+   ![Grafana Dashboard](https://github.com/Ahmad-mufied/energy-consumption-monitor/blob/main/images/Grafana-Dashboard.png)
 
 5. **InfluxDB Dashboard**
-   ![InfluxDB Dashboard](images/InfluxDB-Dashboard.png)
+   ![InfluxDB Dashboard](https://github.com/Ahmad-mufied/energy-consumption-monitor/blob/main/images/InfluxDB-Dashboard.png)
 
 6. **Telegram Notification**
-   ![Telegram Warning Notification](images/Warning-Notif.png)
-   ![Telegram Resolved Notification](images/Resolved-Notif.png)
+   ![Telegram Warning Notification](https://github.com/Ahmad-mufied/energy-consumption-monitor/blob/main/images/Warning-Notif.png)
+   ![Telegram Resolved Notification](https://github.com/Ahmad-mufied/energy-consumption-monitor/blob/main/images/Resolved-Notif.png)
 
 
 
