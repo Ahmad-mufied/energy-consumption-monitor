@@ -97,8 +97,8 @@ Here are some images from the project:
    ![InfluxDB Dashboard](https://github.com/Ahmad-mufied/energy-consumption-monitor/blob/main/images/InfluxDB-Dashboard.png)
 
 6. **Telegram Notification**
-   ![Telegram Warning Notification](https://github.com/Ahmad-mufied/energy-consumption-monitor/blob/main/images/Warning-Notif.png)
-   ![Telegram Resolved Notification](https://github.com/Ahmad-mufied/energy-consumption-monitor/blob/main/images/Resolved-Notif.png)
+   - ![Telegram Warning Notification](https://github.com/Ahmad-mufied/energy-consumption-monitor/blob/main/images/Warning-Notif.png)
+   - ![Telegram Resolved Notification](https://github.com/Ahmad-mufied/energy-consumption-monitor/blob/main/images/Resolved-Notif.png)
 
 
 
